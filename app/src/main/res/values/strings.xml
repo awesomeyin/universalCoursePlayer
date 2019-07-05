@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">universalCoursePlayer</string>
+
+    <string name="tv_skip">跳过</string>
+    <string name="tv_video_replay">重新播放</string>
+    <string name="tv_start_question">答 题</string>
 </resources>
